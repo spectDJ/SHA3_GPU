@@ -1,1 +1,4 @@
-Two files was added: GPU Kernel and Device execution file.
+This is a OpenCL implementation based on Tiny-SHA/Tiny-Keccak C/C++ program. It can be set to execute SHA3 algorithm in parallel to simutaneously generate multiple hash code with multiple inputs. 
+
+
+Two files was added: GPU Kernel and Device execution file. 
